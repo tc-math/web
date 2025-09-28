@@ -1,0 +1,70 @@
+BODY {text-align:left;
+      font-family: "arial";
+      font-style: normal;
+      font-weight: normal;
+      font-size: 10pt; }
+
+H1 {text-align:left;
+    font-family: "Times New Roman MT Extra Bold, Times";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17pt; }
+H2 {text-align:left;
+    font-family: "Times New Roman MT Extra Bold, Times";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14pt; }
+H3 {text-align:left;
+    font-family: "Times New Roman MT Extra Bold, Times";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12pt; }
+P  {text-align:left;
+    font-family: "arial";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10pt; }
+TD {text-align:left;
+    font-family: "arial";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 10pt; }
+B#size1 {text-align:center;
+    font-family: "Times New Roman MT Extra Bold, Times";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20pt; }
+B#size2 {text-align:center;
+    font-family: "Times New Roman MT Extra Bold, Times";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 17pt; }
+B#size3 {text-align:center;
+    font-family: "Times New Roman MT Extra Bold, Times";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14pt; }
+I#size1 {text-align:center;
+    font-family: "Times";
+    font-style: italics;
+    font-weight: normal;
+    font-size: 20pt; }
+I#size2 {text-align:center;
+    font-family: "Times";
+    font-style: italics;
+    font-weight: normal;
+    font-size: 17pt; }
+I#size3 {text-align:center;
+    font-family: "Times";
+    font-style: italics;
+    font-weight: normal;
+    font-size: 14pt; }
+P#trailer {text-align:left;
+    font-family: "times";
+    font-style: italic;
+    font-weight: normal;
+    font-size: 9pt; }
+
+OL.withalpha { list-style-type: lower-alpha }
+OL.withroman { list-style-type: lower-roman }
+
